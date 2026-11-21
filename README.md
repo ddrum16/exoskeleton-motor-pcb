@@ -39,8 +39,6 @@ This board sits between the main high-voltage supply and the exoskeleton's motor
 
 - Designed the schematic and PCB layout in Altium Designer
 - Selected components for the switching, protection, and sensing circuits
-- ADD IF TRUE: assembled or tested the board
-- ADD IF TRUE: any other part you personally did
 
 ## Tools
 
