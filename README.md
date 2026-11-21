@@ -3,7 +3,7 @@
 A 48V motor power distribution and protection board designed in Altium Designer for the McMaster exoskeleton team.
 
 <p align="center">
-<img width="1288" height="1278" alt="Screenshot 2026-11-20 183755" src="https://github.com/user-attachments/assets/dba3c857-bc7c-4476-96fc-f9c4da913e54" />
+<img width="900" height="900" alt="Screenshot 2026-11-20 183755" src="https://github.com/user-attachments/assets/dba3c857-bc7c-4476-96fc-f9c4da913e54" />
 </p>
 <p align="center"><i>3D render of the board</i></p>
 
